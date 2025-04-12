@@ -1,6 +1,7 @@
 <a href="url"><img src="153441388069e107ca3ec105f8b3c74211efaab5355_b.jpg" height="320" width="320" ></a>
 
-<img width="200" src="http://material-bread.org/logo-shadow.svg" style="margin: 0 auto;" alt="Material Bread logo">
+<img width="200" src="http://material-bread.org/logo-shadow.svg" align="center" alt="Material Bread logo">
+
 
 
 
