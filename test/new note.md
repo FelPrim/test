@@ -10,7 +10,9 @@ $$u_{x}=\frac{\partial}{\partial x} u$$
 $$a_{11}u_{xx}+2a_{12}u_{xy}+a_{22}u_{yy}+\overline{F}(x,y,u,u_{x},u_{y})=0$$
 
 
-$$\begin{gather} a_{ij}=a_{ij}(x,y) \to \text{Линейное} \\ a_{ij}=a_{ij}(x,y,u,u_{x},u_{y})\to \text{Квазилинейное} \end{gather}$$
+$$\begin{gather} a_{ij}=a_{ij}(x,y) \to \text{Линейное} 
+\\
+ a_{ij}=a_{ij}(x,y,u,u_{x},u_{y})\to \text{Квазилинейное} \end{gather}$$
 
 Линейное уравнение второго порядка: 
 
