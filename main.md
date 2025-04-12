@@ -1,0 +1,51 @@
+﻿
+<div align="center">
+	<img width="200" src="http://material-bread.org/logo-shadow.svg" align="center" alt="Material Bread logo">
+</div>
+
+<a>
+	<img src="https://github.com/FelPrim/test/blob/main/test/153441388069e107ca3ec105f8b3c74211efaab5355_b.jpg"  width="320" >
+</a>
+
+
+
+<a> 
+	<img src="https://github.com/FelPrim/bmstu/blob/master/obsidian%20stuff/attachments/153441388069e107ca3ec105f8b3c74211efaab5355_b.jpg"  width="320" > 
+</a>
+
+<a> 
+	<img src="https://github.com/FelPrim/bmstu/blob/master/obsidian%20stuff/attachments/153441388069e107ca3ec105f8b3c74211efaab5355_b.jpg" > 
+</a>
+
+
+
+$$
+\begin{aligned}
+(a_{i})=\begin{pmatrix}
+1
+\\
+
+2 
+\\
+
+3
+\end{pmatrix}
+
+\\
+
+(b_{i})=\begin{pmatrix}
+2
+\\
+
+4 
+\\
+
+7
+\end{pmatrix}
+
+\\
+
+a_{i}+b_{i}
+\end{aligned}
+$$
+
