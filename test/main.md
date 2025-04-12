@@ -11,3 +11,19 @@ $1_2$ $3_{4}$
     <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
 </p>
 <center> 2 </center>
+
+$$\begin{aligned}
+(a_{i})=\begin{pmatrix}
+1\\
+2 \\
+3
+\end{pmatrix}
+\\
+(b_{i})=\begin{pmatrix}
+2\\
+4 \\
+7
+\end{pmatrix}
+\\
+a_{i}+b_{i}
+\end{aligned}$$
