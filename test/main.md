@@ -1,10 +1,8 @@
-<a href="url"><img src="153441388069e107ca3ec105f8b3c74211efaab5355_b.jpg" align="left" height="320" width="320" ></a>
+<a href="url"><img src="153441388069e107ca3ec105f8b3c74211efaab5355_b.jpg" height="320" width="320" ></a>
 
-<br>
+<img width="200" src="http://material-bread.org/logo-shadow.svg" style="margin: 0 auto;" alt="Material Bread logo">
 
-<p align="center">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
-</p>
+
 
 $$\begin{aligned}
 (a_{i})=\begin{pmatrix}
